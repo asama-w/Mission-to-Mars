@@ -13,12 +13,19 @@ To gather information about Mars from different websites into one place by writi
 + Using BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and their titles.
 + _Code_: [Mission_to_Mars_Challenge.ipynb](https://github.com/asama-w/Mission-to-Mars/blob/main/Mission_to_Mars_Challenge.ipynb)
 
+<img src= https://github.com/asama-w/Mission-to-Mars/blob/main/Additional_Images/img_url_and_titles.png width="60%" height="60%">
+
 ### 2. Updating the Web App with the scraped data (Deliverable 2)
 + Modifying `scraping.py` file with the new function that scarpe the images and titles in deliverable 1. and updating the `index.html` file to show these new information on the web application.
 + _Code_: 
   + [scraping.py](https://github.com/asama-w/Mission-to-Mars/blob/main/scraping.py)
   + [app.py](https://github.com/asama-w/Mission-to-Mars/blob/main/app.py)
 
+**Web Application Outline before the outline customization in the following deliverable 3**
+
+<img src= https://github.com/asama-w/Mission-to-Mars/blob/main/Additional_Images/web_app_original.png width="50%" height="50%">
+
+**Four images of Mars Hemispheres are displayed on the web application**
 <img src= https://github.com/asama-w/Mission-to-Mars/blob/main/Additional_Images/mars_hemi_outline.png width="50%" height="50%">
 
 ### 3. Customizing the Web App (Deliverable 3)
