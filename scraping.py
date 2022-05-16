@@ -140,8 +140,6 @@ def mars_hemisphere(browser):
         # Navigate browser back to the beginning
         browser.back()  
 
-    browser.quit()
-
     return hemisphere_image_urls
 
 if __name__ == "__main__":
