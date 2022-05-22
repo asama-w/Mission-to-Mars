@@ -1,6 +1,6 @@
 # Mission to Mars
 ## Project Overview
-To gather information about Mars from different websites into one place by writing a script that automates the web browser with the use of BeautifulSoup and Splinter to scrap the data, then store them in MongoDB, a NoSQL database. The web application is also created using Flask to present the gathered information of the Mission-to-Mars with a feature that scrapes new data by clicking a single button, and is further customized to be mobile-responsive.
+To gather information about Mars from different websites into one place by writing a script that automates the web browser with the use of BeautifulSoup and Splinter to scrap the data, then store them in MongoDB, a NoSQL database. The web application is also created using Flask to represent the gathered information of the Mission-to-Mars with a feature button that scrapes new data when clicked, and is further customized to be mobile-responsive.
 
 ## Resources
 + **Languages:** Python3, HTML
